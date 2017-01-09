@@ -1,0 +1,7 @@
+[package]
+name = "ascii_pixels"
+version = "0.1.0"
+authors = ["Sean Heffernan <seanmheff@gmail.com>"]
+
+[dependencies]
+image = "*"
